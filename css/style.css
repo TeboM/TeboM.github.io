@@ -1,0 +1,68 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+} 
+
+#intro {
+    background: url("/img/bg/DualSetup.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+ #contactInfo {
+    height: 400px;
+ }
+.navbar {
+    background-color: #BA2123;
+}
+
+.navbar-brand {
+    text-align: center;
+}
+
+#Heading {
+    margin-top: 20%;
+    color: white;
+}
+
+#profile-img {
+    height: 400px;
+    background-color: #BA2123;
+}
+.python-logo{
+    background-color: blue;
+}
+
+#tech-stack {
+    height: 200px;
+}
+
+#tech-stack-icon {
+    height: 100px;
+    width: 100px;
+}
+
+#social-media-icon {
+    height: 100px;
+    width: 400px;
+}
+
+#contact-form-header {
+    height: 100px;
+    margin: 20px 0 50px 0;
+}
+
+#contact-form-body {
+    background-color: #BA2123;
+}
+
+#contact-form-section {
+    height: 400px;
+    background-color: aliceblue; 
+}
+#social-media-links {
+    height: 100px;
+}
