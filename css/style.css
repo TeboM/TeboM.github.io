@@ -5,22 +5,33 @@ header,
     height: 100%;
 } 
 
+footer{
+    background-color: rgba(29, 101, 122, 0.918);
+}
 #intro {
-    background: url("/img/bg/DualSetup.jpg")no-repeat center center fixed;
+    background: url("/img/bg/carna.gif")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
  #contactInfo {
-    height: 400px;
+    height: 300px;
  }
 .navbar {
-    background-color: #BA2123;
+    background-color: rgba(29, 101, 122, 0.918);
 }
 
 .navbar-brand {
     text-align: center;
+    background-color: rgba(19, 76, 94, 0.918);
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    border-style: solid;
+}
+
+.navbar-brand:hover {
+    border-radius: 1rem;
 }
 
 #Heading {
@@ -29,9 +40,13 @@ header,
 }
 
 #profile-img {
-    height: 400px;
-    background-color: #BA2123;
+    height: 290px;
 }
+
+#img-pic {
+    height: 100%;
+}
+
 .python-logo{
     background-color: blue;
 }
@@ -41,28 +56,21 @@ header,
 }
 
 #tech-stack-icon {
-    height: 100px;
+    max-height: 100px;
     width: 100px;
+}
+#data-row {
+    max-height: 50px;
 }
 
 #social-media-icon {
-    height: 100px;
-    width: 400px;
+    max-height: 60px;
+    width: 100px;
+    border: #BA2123;
+    border-style: dashed;
+    border-radius: 5px;
 }
 
-#contact-form-header {
-    height: 100px;
-    margin: 20px 0 50px 0;
-}
-
-#contact-form-body {
-    background-color: #BA2123;
-}
-
-#contact-form-section {
-    height: 400px;
-    background-color: aliceblue; 
-}
 #social-media-links {
-    height: 100px;
+    height: 80px;
 }
