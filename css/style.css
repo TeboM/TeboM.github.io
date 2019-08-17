@@ -59,6 +59,12 @@ footer{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(5rem,1fr));
 }
+.row-companies {
+    margin: 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(5rem,1fr));
+}
+
 
 #tech-stack-icon {
     max-height: 100px;
