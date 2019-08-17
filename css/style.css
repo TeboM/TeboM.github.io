@@ -41,10 +41,12 @@ footer{
 
 #profile-img {
     height: 290px;
+
 }
 
-#img-pic {
+.img-pic {
     height: 100%;
+    margin: 0 auto;
 }
 
 .python-logo{
@@ -60,9 +62,9 @@ footer{
     grid-template-columns: repeat(auto-fit, minmax(5rem,1fr));
 }
 .row-companies {
-    margin: 2rem;
+    margin: 1rem;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(5rem,1fr));
+    grid-template-columns: repeat(auto-fit, minmax(0.5rem,1fr));
 }
 
 
@@ -76,11 +78,4 @@ footer{
     max-height: 50px;
 }
 
-#social-media-icon {
-    /* width: 50px; */
-    
-}
 
-#social-media-links {
-    
-}
