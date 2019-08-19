@@ -41,12 +41,22 @@ footer{
 
 #profile-img {
     height: 290px;
-
 }
-
+  
+#work-logo {
+    
+    width: 200px;
+    
+    height: 120px;
+    margin: 0 auto;
+}
+.work-style {
+    margin: 0 auto;
+}
 .img-pic {
     height: 100%;
     margin: 0 auto;
+
 }
 
 .python-logo{
