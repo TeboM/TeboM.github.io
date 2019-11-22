@@ -85,4 +85,15 @@ footer{
     max-height: 50px;
 }
 
+.job-desc {
+    font-size: 10pt;
+}
+
+/* @media screen and (min-width: 800px) {
+    .desktop-style {
+
+    }
+
+} */
+
 
