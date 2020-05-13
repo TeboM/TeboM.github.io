@@ -96,6 +96,13 @@ footer{
     float: left;
     width: 25%;
     max-width: 100%; } }
+
+@media (min-width: 414px) {
+    .carousel-multi-item-2 .col-sm-12 {
+        
+    }
+
+}
     
     .carousel-multi-item-2 .card img {
     border-radius: 2px;
