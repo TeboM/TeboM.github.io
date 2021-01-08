@@ -4,7 +4,10 @@ header,
 #intro {
     height: 100%;
 } 
-
+.about-quote{
+    font-family: 'Euphoria Script', cursive;
+    font-size: 28px;
+}
 footer{
     background-color: rgba(29, 101, 122, 0.918);
 }
